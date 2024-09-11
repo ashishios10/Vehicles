@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Vehicles
+
+  Created by Ashish Patel on 2021/11/22.
+  
+*/
+
+// Vehicle List
+"vehicleList.searching" = "Suche..";
+"vehicleList.map" = "Karte";
+"vehicleList.loading" = "Wird geladen..";
+
+// Network
+"network.genericError" = "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später noch einmal";
+"network.noInternet" = "Internetverbindung nicht verfügbar";
+
+// Direction
+"direction.kilometer" = "Kilometer";
